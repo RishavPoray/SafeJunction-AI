@@ -4,7 +4,7 @@ AI-Powered Traffic Junction Safety & Risk Monitoring System.
 
 ## 🌐 Live Demo
 
-https://safejunction-ai-lwih8qkjhgm73gy2yghq2w.streamlit.app/
+https://safejunction-ai.streamlit.app/
 
 ## 📌 Problem
 
